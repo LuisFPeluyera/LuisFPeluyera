@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=LuisFPeluyera&theme=ocean-gradient)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuisFPeluyera&theme=dark)](https://git.io/streak-stats)
